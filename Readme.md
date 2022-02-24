@@ -31,7 +31,7 @@ Move your code in Lab1 into this new repository. Please do not directly overwrit
 
 ## Check Your Tasks for Lab 2
 
-Read the documentation of Lab2 and your tasks in [home page for lab2](https://www.cs.ucr.edu/~dtan004/proj2/lab02_parser.html). 
+Read the documentation of Lab2 and your tasks in [home page for lab2](https://cs152-ucr-gupta.github.io/website/lab02_parser.html). 
 
 ## Using Bison to generate C source code of Parser
 
